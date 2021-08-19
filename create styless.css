@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    padding: 15px 30px;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#txtbox{
+    padding: 5px 45px;
+}
